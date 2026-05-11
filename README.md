@@ -1,5 +1,5 @@
 # Real Time Location Tracker
-Back-end project by using map with react.js and socket.io
+Simple Back-end project by using map with react.js and socket.io
 
 # Install Modules
 npm i express ejs socket.io
