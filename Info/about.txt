@@ -1,3 +1,0 @@
-Real Time Tracking App
-
-Run: npx nodemon app.js
